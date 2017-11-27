@@ -1,0 +1,6 @@
+- mkdir Hello_RSpec
+- now create a file spec/hello_rspec_spec.rb
+- do `bundle exec rspec`
+- mkdir lib
+- create file lib/hello_rspec.rb
+- do `bundle exec rspec`
