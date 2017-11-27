@@ -1,1 +1,2 @@
-# rspec_by_example
+- This repository for RSpec Example.
+  - [First Hello RSpec!!! example] (https://github.com/amicming/rspec_by_example/tree/master/Hello_RSpec)
