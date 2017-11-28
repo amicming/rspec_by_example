@@ -6,6 +6,7 @@ RSpec.describe Palindrome do
 			word = "Madam"
 			expect(Palindrome.palindrome? word).to be_truthy
 			expect(Palindrome.palindrome_solution1? word).to be_truthy
+			expect(Palindrome.palindrome_solution2? word).to be_truthy
 		end
 	end
 
@@ -14,6 +15,7 @@ RSpec.describe Palindrome do
 			word = "Food"
 			expect(Palindrome.palindrome? word).to be_falsey
 			expect(Palindrome.palindrome_solution1? word).to be_falsey
+			expect(Palindrome.palindrome_solution2? word).to be_falsey
 		end
 	end
 end
