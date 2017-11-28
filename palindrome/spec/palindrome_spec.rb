@@ -5,6 +5,7 @@ RSpec.describe Palindrome do
 		it 'should read the same forwards as backwards' do
 			word = "Madam"
 			expect(Palindrome.palindrome? word).to be_truthy
+			expect(Palindrome.palindrome_solution1? word).to be_truthy
 		end
 	end
 
@@ -12,6 +13,7 @@ RSpec.describe Palindrome do
 		it 'should not read the same forwards as backwards' do
 			word = "Food"
 			expect(Palindrome.palindrome? word).to be_falsey
+			expect(Palindrome.palindrome_solution1? word).to be_falsey
 		end
 	end
 end
