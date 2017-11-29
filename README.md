@@ -1,2 +1,4 @@
 - This repository for RSpec Example.
-  - [First Hello RSpec!!! example] (https://github.com/amicming/rspec_by_example/tree/master/Hello_RSpec)
+  - [First Hello RSpec!!!] (https://github.com/amicming/rspec_by_example/tree/master/Hello_RSpec)
+  - [Palindrome] (https://github.com/amicming/rspec_by_example/tree/master/palindrome)
+  - [Student Details] (https://github.com/amicming/rspec_by_example/tree/master/student_details)
